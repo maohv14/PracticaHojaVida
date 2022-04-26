@@ -1,2 +1,2 @@
-Realizando PUSH al Servidor Remoto Mauro Villada
+Realizando PULL desde el servidor Remoto Mauro Villada
 
